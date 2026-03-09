@@ -1,3 +1,6 @@
+# ebe files
+ebe*
+
 # Prerequisites
 *.d
 
@@ -6,6 +9,7 @@
 *.ko
 *.obj
 *.elf
+*.lst
 
 # Ini files
 *.ini
